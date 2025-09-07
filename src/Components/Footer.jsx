@@ -22,8 +22,6 @@ const Footer = () => {
     if(userMessage==='') return ; 
     const model = ai.models.generateContent({model:'gemini-2.5-flash',contents: userMessage})
     const response = await model;
-
-  console.log(response.text)
   }
 
 
