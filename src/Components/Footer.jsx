@@ -31,7 +31,7 @@ const Footer = () => {
     <form >
     {/* chat     */}
     {/* //api key
-    AIzaSyCI4BP1lH5Jmf7cJr9K3ugjq5o9c_l6P8A */}
+    */}
 
   
 <div className="fixed bottom-3 left-0 right-0 flex justify-center px-3">
